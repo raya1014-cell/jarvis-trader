@@ -30,7 +30,7 @@ from telegram.ext import (
 
 # CONFIGURACION
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8735148146:AAHlecoObMgI_f32JgPXoXzLqeIzrMJe34c")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8735148146:AAF40fEWA6iusZNRwRVc_AfnbqkgaePoU_E")
 NEWS_API_KEY = os.environ.get("NEWS_API_KEY", "6b011354c7944ffa816ca37f0337a768")
 INTERVALO_HORAS = 4
 
